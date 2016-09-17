@@ -3,4 +3,10 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="diagnose_is_to_be_positive">The diagnose has %1$s%2$s chance of being positive</string>
+    <string name="previous_diagnoses">Previous Diagnoses</string>
+    <string name="diagnoser_result">Result</string>
+    <string name="created_at">Created</string>
 </resources>

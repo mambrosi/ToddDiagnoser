@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_q_has_migraine">Does the patient have migraines?</string>
+    <string name="txt_q_is_older_15">Is the patient older than 15?</string>
+    <string name="txt_q_is_man">Is the patient a man?</string>
+    <string name="txt_q_uses_drugs">Does the patient use hallucinogenic drugs?</string>
+</resources>
