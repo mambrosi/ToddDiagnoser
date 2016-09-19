@@ -1,4 +1,9 @@
 # ToddDiagnoser
+
+### About
+The app lets you obtain an estimate result on how likely is for a person to have Todd’s Syndrome.
+
+### Running the project
 - The project was created using the latest [beta version](http://tools.android.com/download/studio/builds/2-2-rc-2) of Android Studio.
 - Once downloaded, should the project can be imported without issues.
 
